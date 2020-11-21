@@ -1,0 +1,35 @@
+.header{
+    background-color: var(--oxford-blue-2);
+    height: 50px;
+}
+.header h2{
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5em;
+}
+.mainLogo{
+    font-size: 2.5em; 
+    font-family: 'Reenie Beanie', cursive;
+}
+.login{
+    margin-top: 10px;
+    height: 30px;
+    width: 120px;
+    border-radius: 15px;
+    background-color: var(--flickr-blue);
+}
+.navBox{
+    height: 50px;
+}
+.navBox h2{
+    margin: 10px 10px;
+
+}
+.navBox:hover{
+    background-color: var(--flickr-blue);
+}
+.navBox h2:hover{
+    color: #000 !important;
+}
+.login:hover{
+    background-color: var(--dark-cornflower-blue);
+}
