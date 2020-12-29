@@ -1,0 +1,24 @@
+.forum{
+    background:   linear-gradient(to right ,var(--oxford-blue-2), var(--blue-crayola)) !important;
+    color: white;
+}
+
+.forumHeader{
+    font-family: 'Kanit', sans-serif !important;
+    font-size: 2em !important;
+}
+
+.forumBody{
+    font-family: 'Kanit', sans-serif !important;
+    font-size: 1.5em !important;
+    background-color: whitesmoke;
+}
+
+.listForums{
+    height: 75px;
+    overflow: hidden;
+}
+
+.listForums h3{
+
+}

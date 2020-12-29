@@ -5,8 +5,7 @@ function Footer(){
     return(
         <div className="foo shadow">
             <h2 className="text-light text-center">Khaus Corp</h2>    
-        </div>
-        
+        </div> 
     )
 }
 

@@ -1,6 +1,7 @@
 .header{
     background-color: var(--oxford-blue-2);
     height: 50px;
+    overflow: hidden;
 }
 .header h2{
     font-family: 'Kanit', sans-serif;
@@ -32,4 +33,54 @@
 }
 .login:hover{
     background-color: var(--dark-cornflower-blue);
+}
+
+.mod{
+    border: 10px solid var(--cobalt-blue) !important;
+}
+
+.mdHeader{
+    background-color: var(--cobalt-blue);
+}
+.btl{
+    margin-left: auto !important;
+}
+
+.navProfile h2{
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 1.6em;
+    margin: 11px;
+}
+
+.navProfile img{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+
+.menuT{
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    margin-top: 12.5px;
+}
+
+.navBoxT{
+    height: 75px;
+}
+.navBoxT h2{
+    margin: 20px 0;
+}
+.navBoxT:hover{
+    background-color: var(--flickr-blue);
+}
+.navBoxT h2:hover{
+    color: #000 !important;
+}
+.loginT{
+    background-color: var(--flickr-blue);
+}
+
+.toggle{
+    background-color: var(--oxford-blue-2);
 }

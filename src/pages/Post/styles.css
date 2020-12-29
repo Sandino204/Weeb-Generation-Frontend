@@ -1,0 +1,38 @@
+.bl{
+    border-right: solid whitesmoke 4px;
+}
+
+.bb{
+    border-bottom: solid whitesmoke 4px;
+}
+
+.post{
+    background: var(--lavender-web);
+}
+
+.post img{
+    width: 80px;
+    border-radius: 40px;
+}
+
+.post h3{
+    font-family: 'Reenie Beanie', cursive;
+}
+
+.info{
+    margin-bottom: 0;
+}
+
+.commentBox{
+    
+}
+
+.cm{
+    min-height: 200px;
+}
+
+@media(max-width: 720px){
+    .info{
+        font-size: 10px;
+    }
+}

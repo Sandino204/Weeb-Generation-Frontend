@@ -1,0 +1,29 @@
+.postTitle{
+    margin-top: 10px !important;
+}
+
+.datePost{
+    font-size: 15px;
+}
+
+.postUsername{
+    font-size: 25px !important;
+    font-family: 'Reenie Beanie', cursive;
+}
+
+.PostImage{
+    height: 40px;
+    border-radius: 20px;
+}
+
+.postInfo{
+    font-size: 15px;
+}
+.postFixedHeader{
+    font-size: 45px !important;
+    background:   linear-gradient(to right ,var(--oxford-blue-2), var(--blue-crayola)) !important;
+}
+
+.modalHeader{
+    background: linear-gradient(to right ,var(--oxford-blue-2), var(--blue-crayola)) !important;
+}
